@@ -20,7 +20,7 @@
     # Config to write in odoo.conf
     'config': [
             'workers = 6',
-            'server_wide_modules = web,queue_job',
+    #        'server_wide_modules = web,queue_job',
     #'limit_request': '8196',
     #'limit_memory_soft': '640000000',
     #'limit_memory_hard': '760000000',
