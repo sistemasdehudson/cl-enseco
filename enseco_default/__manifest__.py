@@ -87,6 +87,7 @@
         'https://github.com/OCA/bank-statement-import -b 13.0',
          ##modulos stock para remito
         'https://github.com/OCA/stock-logistics-workflow.git -b 13.0',
+        'https://github.com/OCA/brand.git -b 13.0',
     ],
     # list of images to use in the form 'name image-url'
     'docker-images': [
